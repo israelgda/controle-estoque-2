@@ -1,4 +1,4 @@
-package israelgda.controle_estoque.model
+package com.israelgda.controle_estoque.model
 
 import jakarta.persistence.*
 
