@@ -1,7 +1,6 @@
 package com.israelgda.controle_estoque.model
 
 import jakarta.persistence.*
-import org.springframework.data.annotation.Id
 
 @Entity
 @Table(name = "categoria")
